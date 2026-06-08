@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=🎨+Bekloppten+Designs;Design+mit+Persönlichkeit;Web+•+Grafik+•+Ideen;Nicht+perfekt+–+aber+anders" />
+# 👋 Willkommen bei Bekloppten Designs
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=🎨+Bekloppten+Designs; Python+Projekte;Web+•+Grafik+•+Ideen" />
 
 <br>
 
@@ -16,21 +16,13 @@
 
 ---
 
-# 👋 Willkommen bei Bekloppten Designs
 
-Wir machen Dinge, die auffallen.
 
-Keine Massenware.  
-Keine langweiligen Standardlösungen.  
-Sondern Designs mit Charakter.
 
-Ob kleine Projekte, Webseiten, Grafiken oder verrückte Ideen – hier entstehen Dinge mit Stil.
-
----
 
 ## ✨ Was wir machen
 
-```txt
+
 🌐 Webdesign
 🎨 Grafikdesign
 ⚡ Branding
