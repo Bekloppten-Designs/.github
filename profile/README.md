@@ -1,7 +1,7 @@
 <div align="center">
 # 👋 Willkommen bei Bekloppten Designs
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=🎨+Bekloppten+Designs; Python+Projekte;Web+•+Grafik+•+Ideen;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=%F0%9F%8E%A8+Bekloppten+Designs;Python+Projekte;Web+%E2%80%A2+Grafik+%E2%80%A2+Ideen" />
 
 <br>
 
