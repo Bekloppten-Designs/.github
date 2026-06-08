@@ -1,6 +1,7 @@
 <div align="center">
 # 👋 Willkommen bei Bekloppten Designs
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=🎨+Bekloppten+Designs; Python+Projekte;Web+•+Grafik+•+Ideen;"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=🎨+Bekloppten+Designs; Python+Projekte;Web+•+Grafik+•+Ideen;" />
 
 <br>
 
@@ -23,11 +24,10 @@
 ## ✨ Was wir machen
 
 
-🌐 Webdesign
-🎨 Grafikdesign
-⚡ Branding
-🖥️ Digitale Projekte
-💡 Kreative Experimente
+🌐 Webdesign <br>
+🎨 Grafikdesign <br>
+🐍 Python Scripts<br>
+🖥️ Kleine Software <br>
 
 
 ---
@@ -35,10 +35,10 @@
 
 ## 🚀 Wir verbinden:
 
-🟣 Kreativität
-🔵 Moderne Gestaltung
-⚪ Klare Strukturen
-🟣 Eigene Ideen
+🟣 Kreativität <br>
+🔵 Moderne Gestaltung <br>
+⚪ Klare Strukturen <br>
+🟣 Eigene Ideen <br>
 
 
 ---
