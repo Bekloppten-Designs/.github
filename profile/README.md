@@ -33,6 +33,12 @@
 
 ---
 
+## 🌐 Links
+[Website](https://bekloppten.de/)
+<br>
+[Bekloppten.de Repo](https://github.com/Bekloppten-Designs/Bekloppten.de)
+<br>
+[Designs.Bekloppten.de Repo](https://github.com/Bekloppten-Designs/designs.bekloppten.de)
 
 ## 🚀 Wir verbinden:
 
