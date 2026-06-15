@@ -12,7 +12,7 @@
 
 <img src="https://img.shields.io/badge/Status-Aktiv-a855f7?style=for-the-badge">
 <img src="https://img.shields.io/badge/Design-Kreativ-9333ea?style=for-the-badge">
-<img src="https://img.shields.io/badge/Made%20with-Leidenschaft-c084fc?style=for-the-badge">
+<img src="https://img.shields.io/badge/Unsere%20Seiten-Selfhosted-c084fc?style=for-the-badge">
 
 </div>
 
