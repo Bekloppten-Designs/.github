@@ -39,6 +39,8 @@
 [Bekloppten.de Repo](https://github.com/Bekloppten-Designs/Bekloppten.de)
 <br>
 [Designs.Bekloppten.de Repo](https://github.com/Bekloppten-Designs/designs.bekloppten.de)
+<br>
+[Blog.Bekloppten.de Repo](https://github.com/Bekloppten-Designs/Blog.Bekloppten.de)
 
 ## 🚀 Wir verbinden:
 
