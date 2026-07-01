@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Natürlich-Eigende+Cloud-a855f7?style=for-the-badge">
+<img src="https://img.shields.io/badge/Natürlich-Eigende+%E2%80%A2+Cloud-a855f7?style=for-the-badge">
 <img src="https://img.shields.io/badge/Design-Kreativ-9333ea?style=for-the-badge">
 <img src="https://img.shields.io/badge/Unsere%20Seiten-Selfhosted-c084fc?style=for-the-badge">
 
